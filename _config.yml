@@ -1,7 +1,7 @@
 name: shushingfairy
 favicon: null
-layout_spectrum: 0.27707730303518474
-typography_spectrum: 0.14111973671242595
+layout_spectrum: 1
+typography_spectrum: 0.92049
 title: Shushing Fairy
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.640252691693604
+    - '#000000'
+    - '#ffffff'
+    - '#d3d3d3'
+    - '#3e3e3e'
+    - '#686868'
+  brandStrength: 0.6875
   lightness: 0.20937394630163908
   saturation: 0.9206060469150543
   rhythmicContrast: 0.059040497057139874
