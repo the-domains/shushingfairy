@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Obscure and experimental dark indie games for the Insanity of Mind
-datePublished: '2016-01-07T11:30:48.510Z'
-dateModified: '2016-01-07T11:30:35.738Z'
+datePublished: '2016-01-07T11:39:17.575Z'
+dateModified: '2016-01-07T11:39:06.134Z'
 title: Shushing Fairy
 author: []
 sourcePath: _posts/2016-01-07-shushing-fairy.md
