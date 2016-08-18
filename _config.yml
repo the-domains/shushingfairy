@@ -1,29 +1,41 @@
-name: shushingfairy
-favicon: null
-layout_spectrum: 0.24514
-typography_spectrum: 0.92049
-title: Shushing Fairy
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.24514
+title: Shushing Fairy
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.9206060469150543
+  brandStrength: 0.6875
+  rhythmicContrast: 0.05904049705713987
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#d3d3d3'
     - '#3e3e3e'
     - '#686868'
-  brandStrength: 0.6875
-  lightness: 0.20937394630163908
-  saturation: 0.9206060469150543
-  rhythmicContrast: 0.059040497057139874
+  lightness: 0.2093739463016391
 purpose: []
+favicon: null
+name: shushingfairy
+typography_spectrum: 0.92049
