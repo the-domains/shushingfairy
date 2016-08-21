@@ -1,4 +1,3 @@
-layout_spectrum: 0.6601588104385883
 typography_spectrum: 0.6888422672636807
 color:
   saturation: 0.429800184443593
@@ -15,11 +14,12 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6601588104385883
 analytics:
   twitter: null
   google: null
   facebook: null
-name: shushingfairy
+name: Shushing Fairy
 cta:
   bucket: null
   version: null
