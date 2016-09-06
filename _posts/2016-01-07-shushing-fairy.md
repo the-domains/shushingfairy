@@ -1,25 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-08-20T19:47:03.308Z'
-dateModified: '2016-08-18T11:07:26.835Z'
-title: ''
-author: []
-sourcePath: _posts/2016-01-07-shushing-fairy.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-09-02T20:46:52.245Z'
+datePublished: '2016-09-02T20:47:05.727Z'
+description: Dark and experimental indie games for the insanity of mind
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: {}
+title: Sushing Fairy
+author: []
 via: {}
 starred: true
+sourcePath: _posts/2016-01-07-shushing-fairy.md
 url: shushing-fairy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85fbd180-ff38-4838-8b04-b33f9ebcffe7.png)
+![Dark and experimental indie games for the insanity of mind](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e135101f5b94671e7ee962ecdd3825c2ede2ddbc.png)
