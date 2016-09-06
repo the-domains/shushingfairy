@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shushing Fairy]]></title>
+        <description><![CDATA[Shushing Fairy]]></description>
+        <link>https://thegrid.ai/shushingfairy/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 02 Sep 2016 20:47:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shushingfairy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sushing Fairy]]></title>
+            <description><![CDATA[<article><h1>Sushing Fairy</h1><p>Dark and experimental indie games for the insanity of mind</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e135101f5b94671e7ee962ecdd3825c2ede2ddbc.png"></article>]]></description>
+            <link>https://thegrid.ai/shushingfairy/shushing-fairy/index.html</link>
+            <guid isPermaLink="false">8e16380f-9c9e-463e-bee6-304a501167c6</guid>
+            <pubDate>Fri, 02 Sep 2016 20:47:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
