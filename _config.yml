@@ -1,4 +1,20 @@
-typography_spectrum: 0.6888422672636807
+title: Shushing Fairy
+content: []
+github: true
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Experimental and Obscure Indie Games for the Insanity of Mind
 color:
   saturation: 0.429800184443593
   brandStrength: 0.7417104572523385
@@ -10,35 +26,19 @@ color:
     - '#4D4D4D'
     - '#333333'
   lightness: 0.02641591127030551
-github: true
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.234767
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Shushing Fairy
 cta:
   bucket: null
   version: null
   domain: null
+name: Shushing Fairy
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Shushing Fairy
-content: []
-description: Experimental and Obscure Indie Games for the Insanity of Mind
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.0609319
+layout_spectrum: 1
