@@ -1,3 +1,16 @@
+layout_spectrum: 0.6994060309157513
+typography_spectrum: 0.6395088965407029
+color:
+  saturation: 0.6855491175885211
+  brandStrength: 0.8498534422640753
+  rhythmicContrast: 0.19600343014546992
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.024045496948321563
 title: Shushing Fairy
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -39,17 +52,6 @@ collections:
       format: rss
       number: 10
 description: Experimental and Obscure Indie Games for the Insanity of Mind
-color:
-  saturation: 0.429800184443593
-  brandStrength: 0.7417104572523385
-  rhythmicContrast: 0.1987002894748002
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  lightness: 0.02641591127030551
 cta:
   bucket: null
   version: null
@@ -64,5 +66,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.0609319
-layout_spectrum: 1
