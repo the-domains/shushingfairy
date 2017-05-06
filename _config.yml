@@ -1,16 +1,16 @@
-layout_spectrum: 0.19019072493455272
-typography_spectrum: 0.2554928043622081
+layout_spectrum: 0.5944357716774402
+typography_spectrum: 0.5945591101308565
 color:
-  saturation: 0.18814438390195148
-  brandStrength: 0.9847541609250636
-  rhythmicContrast: 0.19375656387768686
+  saturation: 0.18506240443446406
+  brandStrength: 0.9850750165546109
+  rhythmicContrast: 0.19433478581875857
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  lightness: 0.02915766325041578
+  lightness: 0.023532178965074445
 title: Shushing Fairy
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
