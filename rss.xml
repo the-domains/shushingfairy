@@ -2,16 +2,24 @@
     <channel>
         <title><![CDATA[Shushing Fairy]]></title>
         <description><![CDATA[Shushing Fairy]]></description>
-        <link>https://thegrid.ai/shushingfairy/</link>
+        <link>http://www.shushingfairy.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 May 2017 22:51:40 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/shushingfairy/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 May 2017 01:54:45 GMT</lastBuildDate>
+        <atom:link href="http://www.shushingfairy.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 06 May 2017 01:54:44 GMT</pubDate>
         <item>
             <title><![CDATA[How to create a Hellish creature from a cute toy]]></title>
             <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c49802e4d84a4ca09f607fceeda978405490311.gif"><h1>How to Hack a Furby to Terrorize your Friends</h1></article>,<h2>How to create a Hellish creature from a cute toy</h2>]]></description>
-            <link>https://thegrid.ai/shushingfairy/how-to-create-a-hellish-creature-from-a-cute-toy/index.html</link>
+            <link>http://www.shushingfairy.com/how-to-create-a-hellish-creature-from-a-cute-toy/index.html</link>
             <guid isPermaLink="false">d8e87d7a-f22f-4b7a-a739-228cd638ce56</guid>
             <pubDate>Thu, 04 May 2017 22:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<h1><strong>About Me</strong></h1>,<p>I consider myself a Magician of the New Era.<br>Coding is creativity, passion and skills, applied together to craft something magical, order structure and purpose where before was nothing.</p>]]></description>
+            <link>http://www.shushingfairy.com/about-me/index.html</link>
+            <guid isPermaLink="false">bc12cc34-5c1c-4945-b666-563d42965cdd</guid>
+            <pubDate>Sat, 06 May 2017 01:54:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
