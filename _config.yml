@@ -1,4 +1,3 @@
-layout_spectrum: 0.5944357716774402
 typography_spectrum: 0.5945591101308565
 color:
   saturation: 0.18506240443446406
@@ -11,34 +10,27 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
   lightness: 0.023532178965074445
-title: Shushing Fairy
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac2cf0e8-035a-4c0a-b66c-14df8c49334b.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac2cf0e8-035a-4c0a-b66c-14df8c49334b.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5944357716774402
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Shushing Fairy
+url: 'https://www.shushingfairy.com'
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About
+    id: bc12cc34-5c1c-4945-b666-563d42965cdd
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -51,19 +43,31 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Shushing Fairy
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac2cf0e8-035a-4c0a-b66c-14df8c49334b.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac2cf0e8-035a-4c0a-b66c-14df8c49334b.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Experimental and Obscure Indie Games for the Insanity of Mind
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Shushing Fairy
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-url: 'https://www.shushingfairy.com'
+purpose: []
