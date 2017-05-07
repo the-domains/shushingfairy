@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shushing Fairy]]></title>
+        <description><![CDATA[Shushing Fairy]]></description>
+        <link>http://www.shushingfairy.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 May 2017 11:13:07 GMT</lastBuildDate>
+        <atom:link href="http://www.shushingfairy.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<h1><strong>About Me</strong></h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ff0ff17-932f-4f8c-b978-1cd894730f9d.jpg">,<p>I consider myself a Magician of the New Era.<br>Coding is creativity, passion and skills, applied together to craft something magical that brings order,structure and purpose where before was nothing.<br>I love to apply my art for bringing entertainment and curiosity to people by creating obscure and dark experiences to frighten and inspire people by organizing events and creating ludic experiences.</p>]]></description>
+            <link>http://www.shushingfairy.com/about-me/index.html</link>
+            <guid isPermaLink="false">bc12cc34-5c1c-4945-b666-563d42965cdd</guid>
+            <pubDate>Sun, 07 May 2017 11:12:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
